@@ -41,12 +41,28 @@ Link Original do Kaggle: https://www.kaggle.com/radmirzosimov/telecom-users-data
 
 - Clientes no serviço de fibra estão cancelando muito
     - Temos que verificar o serviço de fibra, temos algum problema ali
-    
-- Quanto mais serviços o cliente tem menor é a chance de cancelamento
-    - Oportunidade: Criar um programa de incentivo a aderir outros serviços
-    
+ 
+![newplot (4)](https://user-images.githubusercontent.com/88164286/155801839-4f27da9d-5079-43ea-ae94-fef72cbaba48.png)
+
 - Quase todos os cancelamentos da empresa estão no contrato mensal:
     - Plano de incentivo ao contrato anual ou 2 anos --> Dar desconto pro cara do contrato anual
- 
+   
+![newplot (5)](https://user-images.githubusercontent.com/88164286/155801841-5e6cf659-5874-4537-91bf-85b4cf73a4ef.png)
+
 - Taxa de cancelamento alta da forma de pagamento: Boleto eletrônico
     - Incentivar os clientes a mudar a forma de pagamento para cartão de crédito ou débito automático
+
+## Para replicar este projeto
+
+- Basta apenas fazer o download ou clonar este repositório para sua máquina e executá-lo, porém antes é importante garantir que você tenha as seguintes tecnologias no pc.
+
+### Tecnologias utilizadas
+
+<table>
+  <tr>
+    <td>Jupyter Notebook</td>
+  </tr>
+  <tr>
+    <td>Python 3</td>
+  </tr>
+</table>
