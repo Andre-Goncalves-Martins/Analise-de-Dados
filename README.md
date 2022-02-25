@@ -23,18 +23,22 @@ Link Original do Kaggle: https://www.kaggle.com/radmirzosimov/telecom-users-data
 
 ## Após seguir estes passos foi possível concluir
 
-#### Partindo do seguinte gráfico pode-se inferir
+#### Partindo do seguintes gráficos, pode-se inferir
 
 ![newplot (1)](https://user-images.githubusercontent.com/88164286/155800956-5c1c778d-d419-4484-a958-1964fc75da25.png)
 
 - Clientes com famílias maiores (casados e com dependentes) tendem a cancelar menos
     - Será que não vale a pena dar um número de graça para o filho do cliente, pra o marido/esposa do cliente?!
-    
+  
+![newplot (2)](https://user-images.githubusercontent.com/88164286/155801460-a38c4714-bb5f-4123-a886-1f818db28efc.png)
+ 
 - MesesComoCliente baixo tem MUITO mais chance de cancelar:
     - Talvez a primeira experiência esteja sendo ruim
     - Talvez a empresa está trazendo clientes desqualificados
     - Ideia: pode ser interessante criar um programa de incentivo ao cliente nos primeiros meses?!
     
+![newplot (3)](https://user-images.githubusercontent.com/88164286/155801468-abedd23e-a4c3-4f50-bc61-1f8f72ed4318.png) 
+
 - Clientes no serviço de fibra estão cancelando muito
     - Temos que verificar o serviço de fibra, temos algum problema ali
     
