@@ -23,6 +23,10 @@ Link Original do Kaggle: https://www.kaggle.com/radmirzosimov/telecom-users-data
 
 ## Após seguir estes passos foi possível concluir
 
+#### Partindo do seguinte gráfico pode-se inferir
+
+![newplot (1)](https://user-images.githubusercontent.com/88164286/155800956-5c1c778d-d419-4484-a958-1964fc75da25.png)
+
 - Clientes com famílias maiores (casados e com dependentes) tendem a cancelar menos
     - Será que não vale a pena dar um número de graça para o filho do cliente, pra o marido/esposa do cliente?!
     
